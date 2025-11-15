@@ -3,7 +3,9 @@
 A modern, responsive redesign of Memorae.ai built for the Nexora Infotech 24-Hour Frontend Hackathon.
 
 ## 🚀 Live Demo
-[View Live Site](https://memorae-redesign.vercel.app/)
+**[View Live Site](https://memorae-redesign.vercel.app/)**
+
+📄 **[View Full Documentation](PROJECT_DOCUMENTATION.md)** - Complete project breakdown
 
 ## 📝 Project Overview
 Memorae is a WhatsApp-based AI assistant that helps users remember tasks, sync calendars, and manage their daily lives. This redesign focuses on:
@@ -53,19 +55,19 @@ Memorae is a WhatsApp-based AI assistant that helps users remember tasks, sync c
 
 ## 🚀 Installation & Setup
 
-Clone repository
+```bash
+# Clone repository
 git clone https://github.com/b-akash-krishna/memorae-redesign.git
 
-Install dependencies
+# Install dependencies
 npm install
 
-Run development server
+# Run development server
 npm run dev
 
-Build for production
+# Build for production
 npm run build
-
-text
+```
 
 ## 💡 Design Decisions
 
@@ -87,6 +89,7 @@ text
 **B Akash Krishna**  
 - GitHub: [@b-akash-krishna](https://github.com/b-akash-krishna)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/b-akash-krishna/)
+- Email: b.akashkrishna27@gmail.com
 
 ---
 
