@@ -1,36 +1,93 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Memorae Redesign - AI Memory Assistant
 
-## Getting Started
+A modern, responsive redesign of Memorae.ai built for the Nexora Infotech 24-Hour Frontend Hackathon.
 
-First, run the development server:
+## 🚀 Live Demo
+[View Live Site](https://memorae-redesign.vercel.app/)
 
-```bash
+## 📝 Project Overview
+Memorae is a WhatsApp-based AI assistant that helps users remember tasks, sync calendars, and manage their daily lives. This redesign focuses on:
+
+- **Modern UI/UX**: Gradient backgrounds, smooth animations, and contemporary design patterns
+- **Enhanced User Experience**: Clearer value proposition and intuitive navigation
+- **Responsive Design**: Optimized for mobile, tablet, and desktop viewing
+- **Performance**: Built with Next.js 16 and optimized for speed
+
+## 🎨 Design Improvements
+
+### Original Site Limitations
+- Basic layout with minimal visual hierarchy
+- Limited animations and interactivity
+- Could improve mobile responsiveness
+
+### My Enhancements
+- **Hero Section**: Dynamic animations with Framer Motion, compelling CTAs
+- **Features Grid**: 6 comprehensive feature cards with icons and hover effects
+- **Stats Section**: Social proof with user metrics
+- **How It Works**: Step-by-step guide with smooth reveal animations
+- **Modern Color Palette**: Purple/blue/green gradient theme for tech-forward feel
+- **Micro-interactions**: Button hover states, card lifts, smooth scrolling
+
+## 🛠️ Tech Stack
+- **Framework**: Next.js 16 (App Router)
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
+- **Deployment**: Vercel
+- **Language**: TypeScript
+
+## 🎯 Key Features Implemented
+✅ Fully responsive design (mobile-first approach)  
+✅ Smooth scroll animations and page transitions  
+✅ WhatsApp integration messaging  
+✅ Feature showcase with 6+ capabilities  
+✅ Social proof statistics  
+✅ Clear call-to-action sections  
+✅ Privacy and security highlights  
+✅ Clean, modern aesthetic  
+
+## 📱 Responsive Breakpoints
+- Mobile: < 768px
+- Tablet: 768px - 1024px
+- Desktop: > 1024px
+
+## 🚀 Installation & Setup
+
+Clone repository
+git clone https://github.com/b-akash-krishna/memorae-redesign.git
+
+Install dependencies
+npm install
+
+Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Build for production
+npm run build
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+text
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 💡 Design Decisions
 
-## Learn More
+**Color Scheme**: Purple-blue gradient represents AI/technology, while green accents connect to WhatsApp branding.
 
-To learn more about Next.js, take a look at the following resources:
+**Typography**: Large, bold headings for impact; readable body text for accessibility.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Animations**: Subtle motion to guide user attention without overwhelming; stagger effects for content reveals.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Layout**: Card-based design for modularity; generous whitespace for breathing room.
 
-## Deploy on Vercel
+## 🎓 Hackathon Submission
+- **Event**: Nexora Infotech 24-Hour Frontend Hackathon
+- **Duration**: Nov 15-16, 2025
+- **Developer**: B Akash Krishna
+- **Time Invested**: ~4 hours
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📧 Contact
+**B Akash Krishna**  
+- GitHub: [@b-akash-krishna](https://github.com/b-akash-krishna)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/b-akash-krishna/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+Built with ❤️ for Nexora Infotech Hackathon
